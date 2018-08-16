@@ -1,4 +1,6 @@
-# Magisk Builds
+# Caution
+This is the forked magisk to be used to update exclusive Magisk build for Redmi S2/Y2 (YSL)
+THIS IS MADE BY IAMMACD
 
 ## Description
 
@@ -9,11 +11,7 @@ patches to fix bugs and/or produce a universally installable build.
 To use this custom channel, configure the following URL in your Magisk Manager
 settings:
 
-https://raw.githubusercontent.com/ianmacd/MagiskBuilds/master/updates/ianmacd.json
-
-Alternatively, this shortened URL will also work:
-
-https://goo.gl/yZpnrf
+https://raw.githubusercontent.com/peaktogoo/MagiskBuilds/master/updates/ianmacd.json
 
 My forked repo of @topjohnwu's Magisk can be found here:
 
